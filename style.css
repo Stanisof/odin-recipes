@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.rec {
+    font-size: larger;
+    background-color: rgb(226, 128, 128);
+}
+
+.main {
+    background-color:bisque ;
+}
+
+.apple {
+    background-color: rosybrown;
+}
+
+.feta {
+    background-color: lightgreen;
+}
+
+.manty {
+    background-color: palevioletred;
+}
+
+.des {
+    background-color: rgb(156, 121, 121);
+}
