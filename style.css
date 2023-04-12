@@ -1,6 +1,28 @@
 * {
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.main ul {
+    margin-left: 480px;
+}
+
+.main ul li {
+    padding: 4px;
+}
+
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img {
+    float: left;
+    margin-right: 50px;
 }
 
 .rec {
@@ -20,10 +42,49 @@
     background-color: lightgreen;
 }
 
+.desf {
+    background-color: rgb(38, 99, 38);
+    color: white;
+    margin-left: 325px;
+    margin-bottom: 150px;
+}
+
 .manty {
     background-color: palevioletred;
 }
 
+.desm {
+    background-color: rgb(118, 0, 118);
+    color: pink;
+}
+
+.desm.intro {
+    margin-left: 520px;
+}
+
+.des.intro {
+    background-color: rgb(156, 121, 121);
+    margin-bottom: 50px;
+    margin-left: 330px;
+}
+
 .des {
     background-color: rgb(156, 121, 121);
+}
+
+.apple a {
+    padding: 6px;
+    background-color: rgb(156, 121, 121);
+}
+
+.manty a {
+    padding: 6px;
+    background-color: rgb(118, 0, 118);
+    color: pink;
+}
+
+.feta a {
+    padding: 6px;
+    background-color: rgb(38, 99, 38);
+    color: white;
 }
